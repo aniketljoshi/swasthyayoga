@@ -9,7 +9,7 @@ Disallow: /admin/
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://www.swasthyayoga.com/sitemap.xml
+Sitemap: https://www.yogaswasthya.com/sitemap.xml
 
 # Google bots
 User-agent: Googlebot

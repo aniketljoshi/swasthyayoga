@@ -3,49 +3,49 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.swasthyayoga.com/</loc>
+    <loc>https://www.yogaswasthya.com/</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.swasthyayoga.com/#about</loc>
+    <loc>https://www.yogaswasthya.com/#about</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.swasthyayoga.com/#programs</loc>
+    <loc>https://www.yogaswasthya.com/#programs</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://www.swasthyayoga.com/#teacher</loc>
+    <loc>https://www.yogaswasthya.com/#teacher</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.swasthyayoga.com/#testimonials</loc>
+    <loc>https://www.yogaswasthya.com/#testimonials</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.swasthyayoga.com/#gallery</loc>
+    <loc>https://www.yogaswasthya.com/#gallery</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://www.swasthyayoga.com/#contact</loc>
+    <loc>https://www.yogaswasthya.com/#contact</loc>
     <lastmod>2025-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

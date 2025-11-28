@@ -17,7 +17,7 @@ Welcome to the Swasthya Yoga Center website! This site is designed to provide in
 
 ## Contact Information
 - **Phone:** 094232 04328
-- **Email:** info@swasthyayoga.com
+- **Email:** info@yogaswasthya.com
 - **Location:** Madhuram Bunglow, Ganesh Colony, Keshav Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411033
 - **Opening Hours:**
   - Monday - Saturday: 5:30 AM - 9:30 PM
