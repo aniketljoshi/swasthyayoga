@@ -1,4 +1,4 @@
-# Swasthya Yoga Center
+# Swasthya Yoga Center 
 
 Welcome to the Swasthya Yoga Center website! This site is designed to provide information about our yoga center, programs, teachers, and how you can get in touch or visit us in Chinchwad, Pimpri-Chinchwad, Maharashtra.
 
