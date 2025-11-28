@@ -11,8 +11,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email',
-      content: 'info@swasthyayoga.com',
-      link: 'mailto:info@swasthyayoga.com'
+      content: 'info@yogaswasthya.com',
+      link: 'mailto:info@yogaswasthya.com'
     },
     {
       icon: MapPin,
