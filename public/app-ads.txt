@@ -1,0 +1,10 @@
+# app-ads.txt for Swasthya Yoga Center mobile applications
+# This file is used to declare authorized digital sellers for mobile apps
+
+# Currently no mobile app advertising partnerships
+# Contact info@swasthyayoga.com for advertising inquiries
+
+# Example format (uncomment when adding advertising partners):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+# Last updated: 2025-01-28

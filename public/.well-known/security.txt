@@ -1,0 +1,12 @@
+Contact: mailto:info@swasthyayoga.com
+Contact: tel:+91-9423204328
+Preferred-Languages: en, hi
+Canonical: https://www.swasthyayoga.com/.well-known/security.txt
+Policy: https://www.swasthyayoga.com/security-policy
+Hiring: https://www.swasthyayoga.com/#contact
+
+# Our security disclosure policy
+# Please report any security vulnerabilities to info@swasthyayoga.com
+# We appreciate responsible disclosure and will respond within 48 hours
+
+Expires: 2026-12-31T23:59:59.000Z

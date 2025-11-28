@@ -1,0 +1,21 @@
+{
+  "name": "Swasthya Yoga Center - Traditional Yoga & Wellness",
+  "short_name": "Swasthya Yoga",
+  "description": "Best yoga classes in Chinchwad, Pimpri. Traditional hatha yoga, therapeutic yoga, meditation, pranayama & kids yoga.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle", "wellness"],
+  "lang": "en-IN",
+  "dir": "ltr"
+}

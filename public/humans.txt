@@ -1,0 +1,30 @@
+# humanstxt.org
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Founder & Lead Yoga Instructor
+    Location: Chinchwad, Pimpri-Chinchwad, Maharashtra, India
+
+# THANKS
+
+    All our dedicated students and the yoga community
+    Traditional yoga gurus and ancient wisdom keepers
+
+# SITE
+
+    Last update: 2025/01/28
+    Standards: HTML5, CSS3, JavaScript ES6+
+    Components: React 18, TypeScript, Tailwind CSS
+    Software: Vite, Visual Studio Code
+    Language: English, हिन्दी (Hindi)
+    Doctype: HTML5
+    IDE: Visual Studio Code
+
+# LOCATION
+
+    Madhuram Bunglow
+    Ganesh Colony, Keshav Nagar
+    Chinchwad, Pimpri-Chinchwad
+    Maharashtra 411033
+    India
