@@ -29,7 +29,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            Best Yoga Classes in Chinchwad<br />
+            Traditional Yoga Classes in Chinchwad<br />
             <span className="text-3xl md:text-5xl text-orange-200">Traditional Hatha Yoga & Meditation</span>
           </h1>
 

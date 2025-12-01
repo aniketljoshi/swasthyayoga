@@ -5,7 +5,7 @@ export default function Teacher() {
     { icon: Award, text: 'Certified Hatha Yoga Instructor' },
     { icon: Heart, text: 'Yogupchar Therapy Specialist' },
     { icon: BookOpen, text: 'Pranayama & Meditation Guide' },
-    { icon: Users, text: '10+ Years Teaching Experience' }
+    { icon: Users, text: '20+ Years Teaching Experience' }
   ];
 
   return (
